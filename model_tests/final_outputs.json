@@ -1,0 +1,42 @@
+{
+    "accuracy": 0.6755793226381461,
+    "precision": 0.7218828613360427,
+    "recall": 0.6755793226381461,
+    "f1": 0.6861598486026116,
+    "num_init_impost": 140,
+    "num_actual_impost": 140,
+    "num_potent_impost": 80,
+    "num_iterations": 100,
+    "vocab_size": 1000,
+    "ngram_size": 4,
+    "dropout": 0.1,
+    "elapsed_time_formatted": "0:20"
+}
+{
+    "accuracy": 0.6755793226381461,
+    "precision": 0.7218828613360427,
+    "recall": 0.6755793226381461,
+    "f1": 0.6861598486026116,
+    "num_init_impost": 140,
+    "num_actual_impost": 140,
+    "num_potent_impost": 80,
+    "num_iterations": 100,
+    "vocab_size": 1000,
+    "ngram_size": 4,
+    "dropout": 0.1,
+    "elapsed_time_formatted": "0:20"
+}
+{
+    "accuracy": 0.6862745098039216,
+    "precision": 0.7472972207266801,
+    "recall": 0.6862745098039216,
+    "f1": 0.7002176705878256,
+    "num_init_impost": 140,
+    "num_actual_impost": 140,
+    "num_potent_impost": 80,
+    "num_iterations": 800,
+    "vocab_size": 10000,
+    "ngram_size": 4,
+    "dropout": 0.1,
+    "elapsed_time_formatted": "11:0"
+}
