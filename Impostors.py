@@ -70,7 +70,7 @@ from sklearn.preprocessing import LabelEncoder
 from numba import jit
 
 # ChatGPT API Key
-api_key = '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'
+api_key = 'the-key'
 
 openai.api_key = api_key
 dataset_folder = "Dataset_texts"
