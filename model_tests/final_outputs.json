@@ -40,3 +40,31 @@
     "dropout": 0.1,
     "elapsed_time_formatted": "11:0"
 }
+{
+    "accuracy": 0.7130124777183601,
+    "precision": 0.720917829523297,
+    "recall": 0.7130124777183601,
+    "f1": 0.6974969437985902,
+    "num_init_impost": 140,
+    "num_actual_impost": 140,
+    "num_potent_impost": 70,
+    "num_iterations": 500,
+    "vocab_size": 10000,
+    "ngram_size": 4,
+    "dropout": 0.1,
+    "elapsed_time_formatted": "7:44"
+}
+{
+    "accuracy": 0.7130124777183601,
+    "precision": 0.720917829523297,
+    "recall": 0.7130124777183601,
+    "f1_macro": 0.6098057010659319,
+    "num_init_impost": 140,
+    "num_actual_impost": 140,
+    "num_potent_impost": 70,
+    "num_iterations": 500,
+    "vocab_size": 10000,
+    "ngram_size": 4,
+    "dropout": 0.1,
+    "elapsed_time_formatted": "7:44"
+}
